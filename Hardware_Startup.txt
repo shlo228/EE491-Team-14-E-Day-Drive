@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Name=EDAY_GUI
+Exec=lxterminal -e "python3 /home/nickatch/EDAY-FINAL.py"
+Terminal=true

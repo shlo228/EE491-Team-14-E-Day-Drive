@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=EDAY_GUI
+Exec=lxterminal -e "python3 /home/nickatch/SAM_LOWE_GUI_FINAL_PROTOTYPE"
